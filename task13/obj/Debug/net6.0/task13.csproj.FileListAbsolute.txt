@@ -1,0 +1,15 @@
+D:\elena2\homework\task13\bin\Debug\net6.0\task13.exe
+D:\elena2\homework\task13\bin\Debug\net6.0\task13.deps.json
+D:\elena2\homework\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+D:\elena2\homework\task13\bin\Debug\net6.0\task13.dll
+D:\elena2\homework\task13\bin\Debug\net6.0\task13.pdb
+D:\elena2\homework\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+D:\elena2\homework\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\elena2\homework\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+D:\elena2\homework\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+D:\elena2\homework\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+D:\elena2\homework\task13\obj\Debug\net6.0\task13.dll
+D:\elena2\homework\task13\obj\Debug\net6.0\refint\task13.dll
+D:\elena2\homework\task13\obj\Debug\net6.0\task13.pdb
+D:\elena2\homework\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache
+D:\elena2\homework\task13\obj\Debug\net6.0\ref\task13.dll
